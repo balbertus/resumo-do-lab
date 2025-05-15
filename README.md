@@ -5,6 +5,7 @@ Alterar configuração e idioma no portal:
 - Idoma
 - Região
 - Aparencia
+  
 Localizar e identificar todas as categorias de Serviço Azure
 
 Finalizando o lab aprendemos a criar esse primeiro repositório com um arquivo
